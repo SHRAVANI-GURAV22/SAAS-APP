@@ -1,10 +1,9 @@
+import CompanionForm from "@/components/componentForm";
 
 
 const CompanionLibrary = () => {
   return (
-    <div>
-      li
-    </div>
+   <main></main>
   )
 }
 
